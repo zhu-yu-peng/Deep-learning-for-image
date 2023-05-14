@@ -156,7 +156,7 @@
 * torchvision 0.11.1 (pip package)
 * tensorflow 2.4.1 (pip package)
 
-欢迎大家关注下我的微信公众号（**玉鹏学习小记**），平时会总结些相关学习博文。    
+欢迎大家关注下我的微信公众号（**学习小记**），平时会总结些相关学习博文。    
 
 如果有什么问题，也可以到我的CSDN中一起讨论。
 [https://mp.csdn.net/mp_blog/manage/article?spm=3001.5298](https://mp.csdn.net/mp_blog/manage/article?spm=3001.5298)
